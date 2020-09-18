@@ -93,6 +93,6 @@ int main(){
 2 0 3 1   output
 --------------------------------
 Process exited after 52.74 seconds with return value 0
-Press any key to continue . . .
+Press any key to continue . . 
 */
 
